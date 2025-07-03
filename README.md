@@ -4,7 +4,7 @@
 7월 3일 진도에 대한 문서 링크<br>
 https://docs.google.com/document/d/17Avhfbh0q_K7FgLGbhBY_yvD3xCIdlAfVIRJUAP-lFU/edit?tab=t.0
 
-*실무에서는 ROI 영역 추출을 위해, 인덱싱과 슬라이싱이 굉장히 많이 쓰인다.
+*실무에서는 ROI 영역 추출을 위해, 인덱싱과 슬라이싱이 굉장히 많이 쓰인다.<br>
 *Shape를 잘해야 메모리 효율성이 달라지고, 실제 영상은 노이즈가 끼고 여러 각도로 촬영되기에 필터와 데이터 증강(augmentation)을 해줘야한다. 
 ![image](https://github.com/user-attachments/assets/73cb4d2f-32ce-4156-bf55-ec371adfd7e2)
 
