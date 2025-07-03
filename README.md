@@ -1,6 +1,6 @@
 # 9일차
 
-## numpy 어레이 복습
+## 1. numpy 어레이 복습
 7월 3일 진도에 대한 문서 링크<br>
 https://docs.google.com/document/d/17Avhfbh0q_K7FgLGbhBY_yvD3xCIdlAfVIRJUAP-lFU/edit?tab=t.0
 
@@ -22,7 +22,7 @@ https://claude.ai/public/artifacts/1e559e5e-1a60-4c8f-8971-69d9d00581ae
 https://claude.ai/public/artifacts/b16c6b7d-4afc-46ab-bd09-778bcd3bb149
 ![image](https://github.com/user-attachments/assets/a7c973d6-d4b9-429a-8b57-7e4baed004eb)
 
-## 0701 플로우 차트를 보고 코드를 짜보는 예제 9개 복습
+## 2. 0701 플로우 차트를 보고 코드를 짜보는 예제 9개 복습
 - 나의 풀이 : https://github.com/audalsgh/20250701/blob/main/0701_python_flowchart_ex.ipynb
 - 모범답안 : https://github.com/audalsgh/20250703/blob/main/0703_python_flowchart_ex_%EB%AA%A8%EB%B2%94%EB%8B%B5%EC%95%88.ipynb
 - matplotlib 융합버전 : https://github.com/audalsgh/20250703/blob/main/0703_%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%2Bmatplotlib_%EC%9C%B5%ED%95%A9_.ipynb
