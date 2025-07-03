@@ -18,3 +18,6 @@ https://claude.ai/public/artifacts/fdea1f0a-439f-47d8-b954-956f34693a2e
 https://claude.ai/public/artifacts/e9e50b3f-cd6a-4a15-8858-3a84f0b4bb36
 5. 브로드캐스팅 애니메이션이 담긴 링크<br>
 https://claude.ai/public/artifacts/1e559e5e-1a60-4c8f-8971-69d9d00581ae
+6. numpy로 자율주행 및 gps 계산을 하는 애니메이션과 코드<br>
+https://claude.ai/public/artifacts/b16c6b7d-4afc-46ab-bd09-778bcd3bb149
+![image](https://github.com/user-attachments/assets/a7c973d6-d4b9-429a-8b57-7e4baed004eb)
