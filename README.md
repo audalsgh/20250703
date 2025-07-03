@@ -24,7 +24,7 @@ https://claude.ai/public/artifacts/b16c6b7d-4afc-46ab-bd09-778bcd3bb149
 
 ## 2. matplotlib 공부
 colab에 작성한 w3schools 코드들 깃허브에 정리하여 이메일로 제출.
-- (./0703_python_matplotlib.ipynb)
+- (0703_python_matplotlib.ipynb)
   ### 몰랐던 개념들 정리.
 - 함수 호출 시 a=1처럼 매개변수 이름을 함께 적어 넘기는 방식을 "키워드 인자(keyword argument)"라 부름.
   ```python
