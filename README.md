@@ -1,6 +1,6 @@
 # 9일차
 
-## numpy 어레이 복습 + PANDAS
+## numpy 어레이 복습
 7월 3일 진도에 대한 문서 링크<br>
 https://docs.google.com/document/d/17Avhfbh0q_K7FgLGbhBY_yvD3xCIdlAfVIRJUAP-lFU/edit?tab=t.0
 
