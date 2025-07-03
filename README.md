@@ -12,4 +12,4 @@ https://claude.ai/public/artifacts/6accf154-ceb5-470a-b2e2-543df2d49b4a
 3. 슬라이싱, 배열 연산 (브로드캐스팅 기능)을 사용해보는 애니메이션이 담긴 링크<br>
 https://claude.ai/public/artifacts/fdea1f0a-439f-47d8-b954-956f34693a2e
 4. Shape & Reshape 개념에 대한 애니메이션이 담긴 링크<br>
-https://claude.ai/public/artifacts/6accf154-ceb5-470a-b2e2-543df2d49b4a
+https://claude.ai/public/artifacts/e9e50b3f-cd6a-4a15-8858-3a84f0b4bb36
